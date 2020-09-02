@@ -20,7 +20,7 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^5.0.0",
     "loopback-connector-firestore": "^1.0.5",
-    "loopback-connector-mongodb": "^1.18.1",
+    "loopback-connector-mongodb": "^5.3.0",
     "loopback-connector-mysql": "^2.4.1",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^2.0.0"
